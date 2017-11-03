@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "698287126111",
+    "firebase_url": "https://mycloudfirestoredemo.firebaseio.com",
+    "project_id": "mycloudfirestoredemo",
+    "storage_bucket": "mycloudfirestoredemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698287126111:android:97907075527ca9a3",
+        "android_client_info": {
+          "package_name": "com.itanic.cloudfirestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698287126111-dkd1rs2vpffl7gmo8asiiv18d9iodsmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACxIxyaI9CvXhXa6aV97CiHa1jAVj578"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
